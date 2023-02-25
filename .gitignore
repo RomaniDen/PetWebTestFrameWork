@@ -1,0 +1,7 @@
+testrail.cfg
+.pytest_cache/
+__pycache__/config.cpython-39.pyc
+__pycache__/conftest.cpython-39-pytest-7.2.1.pyc
+pages/__pycache__/
+tests/__pycache__/
+.DS_Store
